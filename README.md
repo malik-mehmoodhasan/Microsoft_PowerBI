@@ -1,23 +1,16 @@
-# Microsoft_PowerBI
-This repository contains Power BI reports, datasets, and workflows designed to showcase data modelling, visualisation, and analytics best practices and projects. 
+# Power BI Projects
 
-It demonstrates how to:
-Build interactive dashboards with DAX measures and calculated columns
-Manage data transformations using Power Query (M language)
-Apply version control for .pbix files and supporting scripts
-Document BI workflows for collaboration and reproducibility
+## Overview
+This repository contains Power BI reports, datasets, and workflows designed to showcase data modeling, visualization, and analytics best practices.
 
-Features:
-📈 Sample dashboards (sales, finance, operations)
-⚙️ Power Query scripts for ETL and data cleaning
-🧮 DAX formulas for advanced calculations
-🗂️ Organized folder structure for datasets, reports, and documentation
-🔗 GitHub integration for version tracking and collaboration
+## Features
+- Build interactive dashboards with DAX measures and calculated columns  
+- Manage data transformations using Power Query (M language)  
+- Apply version control for `.pbix` files and supporting scripts  
+- Document BI workflows for collaboration and reproducibility  
 
-Usage:  
-Clone the repository, open .pbix files in Power BI Desktop, and connect to sample datasets. Modify queries and measures to adapt dashboards for your own projects.
+## Usage
+Clone the repository, open `.pbix` files in Power BI Desktop, and connect to sample datasets. Modify queries and measures to adapt dashboards for your own projects.
 
-Audience:
-Students preparing for BI/Power BI exams
-Professionals building analytics solutions
-Teams collaborating on BI projects with GitHub
+📜 License
+This repository is for personal learning and educational use. Feel free to fork and adapt, but please credit the original author.
